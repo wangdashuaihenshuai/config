@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "activation": {
+    "enabled": true,
+    "server_url": "https://keygenix-sdk-api.wangdashuaihenshuai.work",
+    "application_id": "7572ad9e-4c33-4d33-a18b-ba280b67fefa"
+  },
+  "premium": {
+    "enabled": true,
+    "daily_limits": {
+      "ai_generate": 20,
+      "mcp_tool_call": 50
+    },
+    "limit_message": "今日免费额度已用完，请激活后继续使用高级功能。"
+  }
+}
