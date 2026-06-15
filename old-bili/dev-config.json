@@ -1,7 +1,7 @@
 {
   "message": {
-    "version": -1,
-    "image": "",
-    "text": ""
+    "version": 1,
+    "image": "https://apt.cydiakk.com/qrcode/api.php?data=http://apt.cydiakk.com/view/136",
+    "text": "hello,world"
   }
 }
